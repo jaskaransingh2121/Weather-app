@@ -56,7 +56,3 @@ Add dark mode.
 
 Make UI mobile-friendly with better responsiveness.
 
----
-
-## 📜 License
-This project is open-source and available under the MIT License.
